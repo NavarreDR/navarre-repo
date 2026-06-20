@@ -37,8 +37,9 @@ in **minutes, not hours** — power stays available but is never required.
   offers media setup.
 
 ## Support
-Navarre is free and stays free (CC BY-NC-SA 3.0, non-commercial). If it's useful,
-there's a voluntary donate link in the skin's menu.
+Navarre is free and stays free (CC BY-NC-SA 3.0, non-commercial). If the skin is useful
+and you'd like to chip in, there's a **Sponsor** button at the top of the repo. There's
+also a voluntary donate link in the skin's menu.
 
 ## Credits
 - **jurialmunkey** — original Arctic: Zephyr.
