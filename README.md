@@ -12,7 +12,7 @@ For Kodi **21 (Omega)**. **This repo is the Navarre add-on repository** - instal
 once and Kodi keeps the skin up to date automatically.
 
 ## Install
-1. Download **[`repository.navarre-1.0.0.zip`](zips/repository.navarre/repository.navarre-1.0.0.zip)**.
+1. Download **[`repository.navarre-1.0.0.zip`](https://github.com/NavarreDR/navarre-repo/releases/download/1.0.0/repository.navarre-1.0.0.zip)** from the [Releases](https://github.com/NavarreDR/navarre-repo/releases) page (it's under **Assets**).
 2. Kodi → **Settings → Add-ons → Install from zip file** → pick that zip (enable
    *Unknown sources* if prompted).
 3. **Install from repository → Navarre Repository → Look and feel → Skin → Navarre.**

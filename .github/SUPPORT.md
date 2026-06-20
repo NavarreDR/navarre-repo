@@ -18,8 +18,8 @@ version**, and the steps that trigger it.
 ## Installing
 
 **How do I install it?**
-1. Download `repository.navarre-x.x.x.zip` from
-   **https://navarredr.github.io/navarre-repo/**.
+1. Download `repository.navarre-1.0.0.zip` from the
+   **[Releases page](https://github.com/NavarreDR/navarre-repo/releases)** (it's under *Assets*).
 2. Kodi → **Settings → Add-ons → Install from zip file** → pick that zip
    (turn on **Unknown sources** if prompted: *Settings → System → Add-ons → Unknown sources*).
 3. **Install from repository → Navarre Repository → Look and feel → Skin → Navarre.**
