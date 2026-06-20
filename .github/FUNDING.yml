@@ -1,7 +1,5 @@
 # GitHub "Sponsor" button for this repo.
-# The first link is Navarre's PayPal pay link; the upstream author (beatmasterRS)
-# is kept as a second link out of respect for the skin this fork is built on --
-# remove that line if you prefer; your call.
-custom:
-  - 'https://www.paypal.com/ncp/payment/TCFPK3MMNBZB2'
-  - 'https://www.paypal.me/beatmasterrs'
+# Single link = the button unambiguously means "support Navarre."
+# beatmasterRS (the upstream author this fork is built on) is thanked, with his
+# own donate link, in the README Credits section instead -- where it can be explained.
+custom: ['https://www.paypal.com/ncp/payment/TCFPK3MMNBZB2']

@@ -1,0 +1,28 @@
+name: Feature request
+description: Suggest an improvement or a new feature for Navarre
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ideas welcome! Navarre's north star is **KISS** — simplest to set up, easiest to
+        use — so the best suggestions make things *clearer*, not just *more*.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's the need?
+      description: What are you trying to do, and what's awkward or missing today?
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like to see?
+      description: Describe the feature or change. Rough is fine.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Anything you've tried or considered?

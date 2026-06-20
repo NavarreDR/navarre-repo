@@ -1,0 +1,71 @@
+name: Bug report
+description: Something in the Navarre skin isn't working right
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the report! Please fill in what you can — the platform and steps are
+        the most important parts. For a general "how do I…?" question, please use
+        [Discussions](https://github.com/NavarreDR/navarre-repo/discussions) instead.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What went wrong, and what did you expect instead?
+      placeholder: "When I … the skin …, but I expected …"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Go to …
+        2. Press …
+        3. See …
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      options:
+        - Windows
+        - NVIDIA Shield (Android)
+        - Fire Stick / Fire TV (Android)
+        - Other Android TV box
+        - Linux
+        - macOS
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: kodi-version
+    attributes:
+      label: Kodi version
+      placeholder: "e.g. 21.1 (Omega)"
+    validations:
+      required: true
+  - type: input
+    id: skin-version
+    attributes:
+      label: Navarre version
+      description: See More → Settings (About), or the skin's add-on info.
+      placeholder: "e.g. 1.0.0"
+    validations:
+      required: true
+  - type: textarea
+    id: log
+    attributes:
+      label: Kodi log (optional but very helpful)
+      description: >
+        Paste the relevant part of kodi.log, or a link to it. See
+        https://kodi.wiki/view/Log_file for how to find it.
+      render: text
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      description: Screenshots, when it started, what you'd already tried, etc.

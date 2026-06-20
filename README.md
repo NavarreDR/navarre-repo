@@ -36,14 +36,22 @@ in **minutes, not hours** — power stays available but is never required.
 - **On-screen hints** and a **first-run bootstrap** that installs sane defaults and
   offers media setup.
 
-## Support
-Navarre is free and stays free (CC BY-NC-SA 3.0, non-commercial). If the skin is useful
-and you'd like to chip in, there's a **Sponsor** button at the top of the repo. There's
-also a voluntary donate link in the skin's menu.
+## Getting help
+- **A question or "how do I…?"** → [Discussions](https://github.com/NavarreDR/navarre-repo/discussions)
+- **A bug or a feature request** → [Issues](https://github.com/NavarreDR/navarre-repo/issues)
+- Common questions (install, posters not updating, media setup) are answered in
+  **[SUPPORT.md](.github/SUPPORT.md)**.
+
+## Support the project
+Navarre is free and stays free (CC BY-NC-SA 3.0, non-commercial). If it's useful and
+you'd like to chip in toward my time on it, there's a **♥ Sponsor** button at the top of
+the repo (and a voluntary donate link inside the skin's menu). Entirely optional.
 
 ## Credits
-- **jurialmunkey** — original Arctic: Zephyr.
-- **beatmasterRS** — Arctic: Zephyr – Reloaded, the base of this fork.
+- **jurialmunkey** — original *Arctic: Zephyr*.
+- **beatmasterRS** — *Arctic: Zephyr – Reloaded*, the skin this is forked from. If you'd
+  like to support the upstream work Navarre is built on, you can
+  [tip beatmasterRS here](https://www.paypal.me/beatmasterrs).
 - Icons from iconmonstr.com; some from metroicon.net (courtesy of Piers).
 
 Licensed **CC BY-NC-SA 3.0** — keep the attribution, keep the same license, don't sell it.
