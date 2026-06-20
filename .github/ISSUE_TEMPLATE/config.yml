@@ -2,7 +2,7 @@ blank_issues_enabled: false
 contact_links:
   - name: Question / how-do-I / general help
     url: https://github.com/NavarreDR/navarre-repo/discussions
-    about: For questions and setup help, please use Discussions — it's the friendliest place to ask.
+    about: For questions and setup help, please use Discussions - it's the friendliest place to ask.
   - name: Setup guide & FAQ
     url: https://github.com/NavarreDR/navarre-repo/blob/main/.github/SUPPORT.md
     about: Install steps and answers to the most common questions.

@@ -6,8 +6,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        Ideas welcome! Navarre's north star is **KISS** — simplest to set up, easiest to
-        use — so the best suggestions make things *clearer*, not just *more*.
+        Ideas welcome! Navarre's north star is **KISS** - simplest to set up, easiest to
+        use - so the best suggestions make things *clearer*, not just *more*.
   - type: textarea
     id: problem
     attributes:

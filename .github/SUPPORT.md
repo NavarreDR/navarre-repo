@@ -5,7 +5,7 @@ questions.
 
 ## Where to go
 - **A question, or "how do I…?"** → **[Discussions](https://github.com/NavarreDR/navarre-repo/discussions)**
-  (the friendliest place — ask anything about setup or use).
+  (the friendliest place - ask anything about setup or use).
 - **A bug, or a feature request** → **[Issues](https://github.com/NavarreDR/navarre-repo/issues)**
   (please use the templates so I have what I need to reproduce it).
 
@@ -27,12 +27,12 @@ version**, and the steps that trigger it.
 
 **The installer seems to hang for a minute or two.**
 That's normal on a fresh Kodi. After you pick the zip, Kodi quietly downloads a few
-helper add-ons (skinshortcuts, embuary, etc.) in the background — there's often a
-**1–2 minute delay with little on-screen feedback**. Don't re-select the zip or restart
+helper add-ons (skinshortcuts, embuary, etc.) in the background - there's often a
+**1-2 minute delay with little on-screen feedback**. Don't re-select the zip or restart
 the installer; just wait for the "Add-on installed" notice.
 
 **"Failed to load dependency" / "could not be satisfied"?**
-Kodi couldn't reach its add-on repository to fetch a helper add-on — usually a slow
+Kodi couldn't reach its add-on repository to fetch a helper add-on - usually a slow
 connection on a fresh install, not a problem with the skin. Open **Add-ons → Install from
 repository → Kodi Add-on repository** so it refreshes the list, then try again. Installing
 via the **Navarre repository** (step 3 above) avoids this.
@@ -57,10 +57,10 @@ sit on disk, so your organization is preserved.
 **On Android / Shield / Fire Stick, where's my media?**
 External drives show up under a path like `/storage/XXXX-XXXX/…`. Browse there in
 **Set up my media**. (tinyMediaManager only runs on a PC, so curate posters on the PC
-first, then copy the small `.nfo/.jpg/.png` files over — the videos can stay put.)
+first, then copy the small `.nfo/.jpg/.png` files over - the videos can stay put.)
 
 > **Note:** folder paths that contain a **comma** can't be used as menu targets (Kodi's
-> internal command syntax splits on commas). The skin will warn you and skip those — just
+> internal command syntax splits on commas). The skin will warn you and skip those - just
 > rename the folder to remove the comma.
 
 ---
@@ -69,17 +69,17 @@ first, then copy the small `.nfo/.jpg/.png` files over — the videos can stay p
 
 **My posters won't update after I edited them in tinyMediaManager.**
 Kodi caches artwork **by file path**, so it keeps showing the old image. Use
-**More → Settings → Refresh artwork** (clears the texture cache) — or press **Left** on a
+**More → Settings → Refresh artwork** (clears the texture cache) - or press **Left** on a
 folder and choose **Refresh artwork** for just that one. The new art appears after that.
 
 **Some posters are blank right after install.**
-Kodi caches artwork the first time a tile is shown — scroll through the folder once and
+Kodi caches artwork the first time a tile is shown - scroll through the folder once and
 the tiles fill in. If a tile stays blank, that movie is missing its poster file; fix it in
 tinyMediaManager, or use **More → Settings → Fetch artwork & info (TMDB)** (needs a free
 TMDB key).
 
 **Concert videos / workout programs have no posters.**
-Expected — they aren't in the movie/TV databases. Leave them, or drop your own
+Expected - they aren't in the movie/TV databases. Leave them, or drop your own
 `folder.jpg` into those folders.
 
 ---
@@ -87,7 +87,7 @@ Expected — they aren't in the movie/TV databases. Leave them, or drop your own
 ## Look & behaviour
 
 **A web "popular movies" strip appeared on the home screen.**
-Re-run **More → Set up my media**, or set a Home background image — either one clears it.
+Re-run **More → Set up my media**, or set a Home background image - either one clears it.
 
 **Something looks wrong / I switched over from Arctic Zephyr and the home is mixed up.**
 **More → Settings → Reset to Navarre defaults** re-applies the intended look without
@@ -111,5 +111,5 @@ That's mouse-hover near the left edge. On a TV box, turn the mouse off:
 
 ## Donating
 Navarre is free and non-commercial (CC BY-NC-SA 3.0). If you'd like to chip in, there's a
-**♥ Sponsor** button at the top of the repo and a voluntary link in the skin's menu —
+**Sponsor** button at the top of the repo and a voluntary link in the skin's menu -
 entirely optional.
