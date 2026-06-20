@@ -36,6 +36,20 @@ in **minutes, not hours** — power stays available but is never required.
 - **On-screen hints** and a **first-run bootstrap** that installs sane defaults and
   offers media setup.
 
+## Screenshots
+
+*Home — a clean vertical menu of your own folders.*
+
+![Navarre home screen](screenshots/home.jpg)
+
+*Poster-wall browsing — your media as a dense grid of posters.*
+
+![Poster-wall view of a movies folder](screenshots/poster-wall.jpg)
+
+*Simple settings — the options that matter, on one screen.*
+
+![Simple settings menu](screenshots/simple-setup.jpg)
+
 ## Getting help
 - **A question or "how do I…?"** → [Discussions](https://github.com/NavarreDR/navarre-repo/discussions)
 - **A bug or a feature request** → [Issues](https://github.com/NavarreDR/navarre-repo/issues)
