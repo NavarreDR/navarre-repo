@@ -18,7 +18,7 @@ version**, and the steps that trigger it.
 ## Installing
 
 **How do I install it?**
-1. Download `repository.navarre-1.0.0.zip` from the
+1. Download `repository.navarre-1.0.1.zip` from the
    **[Releases page](https://github.com/NavarreDR/navarre-repo/releases)** (it's under *Assets*).
 2. Kodi → **Settings → Add-ons → Install from zip file** → pick that zip
    (turn on **Unknown sources** if prompted: *Settings → System → Add-ons → Unknown sources*).
@@ -100,6 +100,11 @@ restart** because Kodi caches the layout.
 **The options blade keeps opening/closing on its own.**
 That's mouse-hover near the left edge. On a TV box, turn the mouse off:
 **Settings → System → Input → Enable mouse and touch screen support → Off.**
+
+**The screen goes black for a minute when Navarre updates.**
+That's normal - not a crash. When the skin updates, Kodi has to rebuild it, and on a TV
+box that can take up to a minute with the screen blank. Just let it finish; you'll see a
+brief "Navarre updated" notice when it comes back.
 
 ---
 
