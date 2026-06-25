@@ -30,12 +30,6 @@ north star is **KISS**: install it, point it at your media folder, and you're br
 in **minutes, not hours** - power stays available but is never required.
 
 ## Features
-- **Comics with real covers** - `.cbz`, `.cbr`, *and* `.pdf` show their actual front
-  cover in the wall, instead of Kodi's montage of inner pages. It reads image-based
-  comic PDFs (which Kodi can't open at all), including the copy-protected ones a lot of
-  old comic sets ship as; auto-crops two-page-spread covers down to just the cover; and
-  fills big folders' covers in the background so hundreds of issues don't freeze it. All
-  in Kodi's built-in Python, no extra modules.
 - **Folder browsing** (Files mode) - your James Bond folder, your Season folders, all
   preserved exactly as they sit on disk. No library flattening.
 - **Poster-wall view everywhere** by default (a dense, Google-Play-style grid), with a
@@ -50,12 +44,14 @@ in **minutes, not hours** - power stays available but is never required.
   settings.
 - **On-screen hints** and a **first-run bootstrap** that installs sane defaults and
   offers media setup.
+- **Comics with real covers** - `.cbz`, `.cbr`, *and* `.pdf` show their actual front
+  cover in the wall, instead of Kodi's montage of inner pages. It reads image-based
+  comic PDFs (which Kodi can't open at all), including the copy-protected ones a lot of
+  old comic sets ship as; auto-crops two-page-spread covers down to just the cover; and
+  fills big folders' covers in the background so hundreds of issues don't freeze it. All
+  in Kodi's built-in Python, no extra modules.
 
 ## Screenshots
-
-*Comics - real covers for your `.cbz`, `.cbr`, and `.pdf`, in a poster wall.*
-
-![Comic poster wall](screenshots/comic-wall.jpg)
 
 *Home - a clean vertical menu of your own folders.*
 
@@ -68,6 +64,10 @@ in **minutes, not hours** - power stays available but is never required.
 *Simple settings - the options that matter, on one screen.*
 
 ![Simple settings menu](screenshots/simple-setup.jpg)
+
+*Comics - real covers for your `.cbz`, `.cbr`, and `.pdf`, in a poster wall.*
+
+![Comic poster wall](screenshots/comic-wall.jpg)
 
 ## Getting help
 - **A question or "how do I…?"** → [Discussions](https://github.com/NavarreDR/navarre-repo/discussions)
