@@ -11,7 +11,7 @@ library flattening, no accounts, no clutter. Built for the couch and a D-pad.
 For Kodi **21 (Omega)**. **This repo is the Navarre add-on repository** - install it
 once and Kodi keeps the skin up to date automatically.
 
-> **Current skin version: 1.5.0.** The installer below stays at `1.0.1` on purpose -
+> **Current skin version: 1.5.2.** The installer below stays at `1.0.1` on purpose -
 > it is the one-time *repository* installer, not the skin. You install it once, and
 > Kodi auto-updates the skin (and its helpers) from there. So `1.0.1` is the right
 > file to grab even though the skin itself is well past it.
@@ -22,7 +22,7 @@ once and Kodi keeps the skin up to date automatically.
    *Unknown sources* if prompted).
 3. **Install from repository → Navarre Repository → Look and feel → Skin → Navarre.**
 4. Updates arrive automatically from here on - you'll land on the latest skin
-   (currently 1.5.0) and stay current.
+   (currently 1.5.2) and stay current.
 
 ## Why
 Kodi plus a stock skin makes a *simple* media UI surprisingly hard to reach. Navarre's
