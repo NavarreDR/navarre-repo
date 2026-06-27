@@ -108,6 +108,26 @@ brief "Navarre updated" notice when it comes back.
 
 ---
 
+## Uninstalling
+
+**How do I fully remove Navarre?**
+Switch to another skin first (**Settings → Interface → Skin**), then remove **Navarre**
+under **Settings → Add-ons → My add-ons → Look and feel → Skin**. Navarre installs two small
+helper add-ons alongside it - **plugin.video.navarre** (Continue watching) and
+**plugin.image.navarre** (comic covers) - which you can remove the same way under **My
+add-ons** if you want a clean sweep.
+
+**After uninstalling, my Back button acts oddly in my new skin, or my log shows a
+`back_to_sidebar.py` error.**
+Navarre uses a Kodi keymap for its Back behavior. Kodi keymaps live in your *userdata*
+(not the skin folder), so older versions left it behind on uninstall. Current versions
+clean it up automatically - the helper add-on removes the keymap once Navarre is no longer
+your active skin, so just leave Kodi running a moment or restart it once. To remove it by
+hand instead, delete **`navarre_back.xml`** from your Kodi **`userdata/keymaps/`** folder
+and restart Kodi.
+
+---
+
 ## The two gestures worth knowing
 - **OK** = open the highlighted thing.
 - **Left** = options for the highlighted folder (rename, move, change icon, delete, refresh art).
